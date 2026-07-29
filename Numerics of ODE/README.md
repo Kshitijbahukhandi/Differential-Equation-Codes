@@ -44,7 +44,7 @@ These MATLAB codes were developed during the Numerical Analysis coursework of th
 
 
 
-\*\*South Asian University (SAU), New Delhi, India\*\*
+South Asian University (SAU), New Delhi, India
 
 
 
