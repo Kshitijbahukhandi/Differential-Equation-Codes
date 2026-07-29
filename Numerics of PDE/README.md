@@ -28,11 +28,11 @@ Implemented methods include:
 
 
 
-These MATLAB implementations were developed as part of the Numerical Analysis coursework of the M.Sc. Applied Mathematics programme at:
+These MATLAB implementations were developed as part of the Numerics of Partial Differential Equations coursework of the M.Sc. Applied Mathematics (2 years) programme at:
 
 
 
-\*\*South Asian University (SAU), New Delhi, India\*\*
+South Asian University (SAU), New Delhi, India
 
 
 
